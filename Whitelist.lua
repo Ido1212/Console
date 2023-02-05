@@ -116,7 +116,7 @@ function Console:Window(consoledebugger)
     
     Window.Name = "Window"
     Window.Parent = ambientShadow
-    Window.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+    Window.BackgroundColor3 = Color3.fromRGB(69, 69, 69)
     Window.BorderSizePixel = 0
     Window.Position = UDim2.new(0, 5, 0, 5)
     Window.Size = UDim2.new(0, 600, 0, 500)
